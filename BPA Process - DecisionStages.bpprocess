@@ -1,0 +1,18 @@
+﻿<process name="DecisionStages" version="1.0" bpversion="6.9.0.26970" narrative="Generate choices based on marks " byrefcollection="true" preferredid="7325173a-57ce-4cbf-88c4-dade73ff4b82">
+  <view>
+    <camerax>0</camerax>
+    <cameray>0</cameray>
+    <zoom version="2">1.25</zoom>
+  </view>
+  <preconditions />
+  <endpoint narrative="" />
+  <stage stageid="85e56d99-94a1-4528-8634-975730870e4a" name="Start" type="Start">
+    <display x="15" y="-105" />
+  </stage>
+  <stage stageid="95f08c81-4eb0-413b-8057-f9bbf9a5e8aa" name="End" type="End">
+    <display x="15" y="90" />
+  </stage>
+  <stage stageid="06f79b59-9f02-4343-8680-8a7efef37ae2" name="Stage1" type="ProcessInfo">
+    <display x="-195" y="-105" w="150" h="90" />
+  </stage>
+</process>
